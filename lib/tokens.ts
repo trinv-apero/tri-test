@@ -1,0 +1,5 @@
+export const CHATBOT_CONFIG = 'CHATBOT_CONFIG';
+export const AI_PROVIDER = 'AI_PROVIDER';
+export const CHATBOT_LOGGER = 'CHATBOT_LOGGER';
+
+

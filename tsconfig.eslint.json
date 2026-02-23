@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig",
+  "include": ["lib", "test"],
+  "exclude": ["node_modules"]
+}
+
